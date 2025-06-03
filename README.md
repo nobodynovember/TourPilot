@@ -1,7 +1,7 @@
 # TourPilot
 In this work, we presents TourPilot, an innovative indoor tour guidance system powered by a Large Language Model (LLM) that integrates pathfinding, adaptive tour planning, and real-time navigation into a unified autonomous framework. To support LLM-driven spatial reasoning, TourPilot introduces an Indoor Entity Graph, which encodes semantic entities and spatial relationships in complex environments. Based on this, we propose a State-Driven Dynamic Planning framework that generates personalized tour plans in real time. For execution, we develop a Narrated Tour Vision-and-Language Navigation method, enabling the LLM to interpret multimodal inputs and perform navigation and tour narration without infrastructure-based positioning. The system uses instruction tuning to align LLM behavior with tour guidance functions, delivering performance comparable to that of human guides. We validate TourPilot in three real-world scenarios: CF Market Mall, Studio Bell Museum, and an art studio. A quantitative user study evaluates TourPilot’s performance across standard LLM system metrics, highlighting its potential as a next-generation solution for indoor tour guidance. 
 
-This repository provides an indoor navigation case in an art studio, serving as a demonstration of our method.
+This repository provides the indoor navigation case in an art studio, serving as a demonstration of our method.
 
  ![SpatialGPT](framework.png).
 

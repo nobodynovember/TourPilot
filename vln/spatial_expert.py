@@ -68,7 +68,7 @@ class SpatialExpert:
                     self.stop_type = int(json_output['stop_type'])
                 except ValueError:
                     self.stop_type = 0
-                # self.stop_type=0 #debug
+                self.stop_type=1 #debug
                 # print('stop type:', self.stop_type)
                 # check if the last action has no related landmarks, remove the action from the list
                 if len(self.actionlist)>0:            
