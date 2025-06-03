@@ -1,0 +1,480 @@
+All cases  -  steps: 6.70  lengths: 13.89  nav_error: 4.66  oracle_error: 1.56  sr: 40.00  oracle_sr: 90.00  spl: 36.87
+
+All cases  -  steps: 7.40  lengths: 14.54  nav_error: 10.02  oracle_error: 4.02  sr: 40.00  oracle_sr: 60.00  spl: 30.61
+
+All cases  -  steps: 7.33  lengths: 15.62  nav_error: 9.41  oracle_error: 4.64  sr: 0.00  oracle_sr: 33.33  spl: 0.00
+
+All cases  -  steps: 7.00  lengths: 13.26  nav_error: 8.02  oracle_error: 3.17  sr: 66.67  oracle_sr: 66.67  spl: 50.81
+
+All cases  -  steps: 8.50  lengths: 14.97  nav_error: 11.73  oracle_error: 3.94  sr: 50.00  oracle_sr: 50.00  spl: 36.21
+
+All cases  -  steps: 5.00  lengths: 10.57  nav_error: 0.00  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 9.01  nav_error: 1.56  oracle_error: 1.56  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 9.01  nav_error: 1.56  oracle_error: 1.56  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 9.01  nav_error: 1.56  oracle_error: 1.56  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 7.78  nav_error: 1.59  oracle_error: 1.59  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 7.78  nav_error: 1.59  oracle_error: 1.59  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.10  lengths: 8.37  nav_error: 1.64  oracle_error: 1.64  sr: 90.00  oracle_sr: 90.00  spl: 90.00
+
+All cases  -  steps: 4.12  lengths: 8.58  nav_error: 1.65  oracle_error: 1.65  sr: 87.50  oracle_sr: 87.50  spl: 87.50
+
+All cases  -  steps: 4.12  lengths: 8.58  nav_error: 1.65  oracle_error: 1.65  sr: 87.50  oracle_sr: 87.50  spl: 87.50
+
+All cases  -  steps: 4.12  lengths: 8.58  nav_error: 1.65  oracle_error: 1.65  sr: 87.50  oracle_sr: 87.50  spl: 87.50
+
+All cases  -  steps: 4.12  lengths: 8.58  nav_error: 1.65  oracle_error: 1.65  sr: 87.50  oracle_sr: 87.50  spl: 87.50
+
+All cases  -  steps: 4.50  lengths: 8.84  nav_error: 5.01  oracle_error: 3.83  sr: 25.00  oracle_sr: 37.50  spl: 25.00
+
+All cases  -  steps: 4.88  lengths: 9.73  nav_error: 5.96  oracle_error: 4.23  sr: 37.50  oracle_sr: 37.50  spl: 33.91
+
+All cases  -  steps: 5.25  lengths: 10.90  nav_error: 5.41  oracle_error: 3.26  sr: 37.50  oracle_sr: 37.50  spl: 32.49
+
+All cases  -  steps: 6.50  lengths: 13.37  nav_error: 12.01  oracle_error: 6.21  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 6.50  lengths: 13.38  nav_error: 8.96  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 6.50  lengths: 13.38  nav_error: 8.96  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 9.13  nav_error: 9.28  oracle_error: 7.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.50  lengths: 12.33  nav_error: 7.38  oracle_error: 2.92  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 5.50  lengths: 11.38  nav_error: 8.52  oracle_error: 4.49  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 6.50  lengths: 12.96  nav_error: 6.89  oracle_error: 3.03  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 3.50  lengths: 10.53  nav_error: 6.27  oracle_error: 5.49  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.50  lengths: 14.53  nav_error: 8.47  oracle_error: 4.40  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 14.50  lengths: 24.62  nav_error: 7.39  oracle_error: 3.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 14.50  lengths: 24.43  nav_error: 6.73  oracle_error: 3.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.50  lengths: 11.28  nav_error: 8.47  oracle_error: 5.59  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 16.50  lengths: 28.12  nav_error: 5.14  oracle_error: 2.16  sr: 50.00  oracle_sr: 50.00  spl: 26.56
+
+All cases  -  steps: 6.00  lengths: 14.21  nav_error: 3.03  oracle_error: 2.92  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 6.00  lengths: 14.21  nav_error: 3.03  oracle_error: 2.92  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 4.00  lengths: 11.49  nav_error: 5.31  oracle_error: 5.31  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 12.04  nav_error: 5.59  oracle_error: 3.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.50  lengths: 16.92  nav_error: 5.91  oracle_error: 3.03  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 7.50  lengths: 16.92  nav_error: 5.91  oracle_error: 3.03  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 9.00  lengths: 17.45  nav_error: 10.29  oracle_error: 4.54  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 6.00  lengths: 14.49  nav_error: 7.33  oracle_error: 4.54  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.87  nav_error: 7.81  oracle_error: 7.81  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 20.00  lengths: 41.95  nav_error: 10.76  oracle_error: 7.45  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 14.00  lengths: 24.64  nav_error: 2.27  oracle_error: 2.16  sr: 50.00  oracle_sr: 50.00  spl: 22.93
+
+All cases  -  steps: 13.00  lengths: 20.69  nav_error: 13.00  oracle_error: 7.81  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 10.50  lengths: 24.79  nav_error: 6.15  oracle_error: 3.85  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 7.00  lengths: 17.52  nav_error: 5.38  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 22.93
+
+All cases  -  steps: 3.00  lengths: 9.39  nav_error: 10.76  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 10.80  nav_error: 11.75  oracle_error: 7.81  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 21.00  lengths: 46.57  nav_error: 10.03  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 11.50  lengths: 29.53  nav_error: 2.27  oracle_error: 0.80  sr: 50.00  oracle_sr: 100.00  spl: 22.93
+
+All cases  -  steps: 3.50  lengths: 9.71  nav_error: 6.75  oracle_error: 4.67  sr: 50.00  oracle_sr: 50.00  spl: 47.67
+
+All cases  -  steps: 4.00  lengths: 8.95  nav_error: 5.55  oracle_error: 4.65  sr: 30.00  oracle_sr: 30.00  spl: 27.17
+
+All cases  -  steps: 9.00  lengths: 20.12  nav_error: 7.75  oracle_error: 3.73  sr: 50.00  oracle_sr: 50.00  spl: 29.03
+
+All cases  -  steps: 5.50  lengths: 14.77  nav_error: 6.42  oracle_error: 5.49  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 6.50  lengths: 17.11  nav_error: 6.15  oracle_error: 3.85  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 4.50  lengths: 12.90  nav_error: 6.15  oracle_error: 3.85  sr: 50.00  oracle_sr: 50.00  spl: 35.86
+
+All cases  -  steps: 3.50  lengths: 9.88  nav_error: 8.62  oracle_error: 5.32  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 9.48  nav_error: 6.15  oracle_error: 5.32  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 8.00  lengths: 19.10  nav_error: 5.13  oracle_error: 4.51  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.50  lengths: 9.91  nav_error: 4.51  oracle_error: 4.40  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 11.59  nav_error: 5.59  oracle_error: 4.40  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.50  lengths: 9.70  nav_error: 5.10  oracle_error: 3.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.50  lengths: 10.73  nav_error: 5.91  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 9.59  nav_error: 5.10  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.00  lengths: 13.28  nav_error: 6.71  oracle_error: 3.03  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 6.50  lengths: 12.02  nav_error: 7.53  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.50  lengths: 11.02  nav_error: 6.12  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.00  lengths: 15.40  nav_error: 5.10  oracle_error: 3.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 12.97  nav_error: 4.54  oracle_error: 1.59  sr: 0.00  oracle_sr: 100.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 11.85  nav_error: 2.83  oracle_error: 1.59  sr: 50.00  oracle_sr: 50.00  spl: 40.33
+
+All cases  -  steps: 4.50  lengths: 10.61  nav_error: 1.59  oracle_error: 1.59  sr: 50.00  oracle_sr: 50.00  spl: 40.33
+
+All cases  -  steps: 4.00  lengths: 9.16  nav_error: 4.49  oracle_error: 4.49  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 4.00  lengths: 9.84  nav_error: 6.15  oracle_error: 4.49  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 7.00  lengths: 12.99  nav_error: 7.45  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 10.74  nav_error: 8.21  oracle_error: 4.67  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 14.50  lengths: 34.05  nav_error: 5.45  oracle_error: 5.45  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 6.00  lengths: 16.91  nav_error: 10.03  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.20  lengths: 10.73  nav_error: 5.78  oracle_error: 3.86  sr: 40.00  oracle_sr: 40.00  spl: 39.43
+
+All cases  -  steps: 6.50  lengths: 13.47  nav_error: 5.16  oracle_error: 3.77  sr: 40.00  oracle_sr: 40.00  spl: 36.15
+
+All cases  -  steps: 9.50  lengths: 23.26  nav_error: 4.69  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 18.24
+
+All cases  -  steps: 4.00  lengths: 10.86  nav_error: 6.26  oracle_error: 3.85  sr: 50.00  oracle_sr: 50.00  spl: 47.67
+
+All cases  -  steps: 6.70  lengths: 15.51  nav_error: 6.09  oracle_error: 4.94  sr: 20.00  oracle_sr: 20.00  spl: 20.00
+
+All cases  -  steps: 4.90  lengths: 9.72  nav_error: 5.11  oracle_error: 3.99  sr: 40.00  oracle_sr: 50.00  spl: 39.91
+
+All cases  -  steps: 3.90  lengths: 7.98  nav_error: 6.79  oracle_error: 5.64  sr: 20.00  oracle_sr: 20.00  spl: 20.00
+
+All cases  -  steps: 4.50  lengths: 8.91  nav_error: 6.34  oracle_error: 5.25  sr: 20.00  oracle_sr: 30.00  spl: 20.00
+
+All cases  -  steps: 3.90  lengths: 7.92  nav_error: 7.09  oracle_error: 5.39  sr: 20.00  oracle_sr: 20.00  spl: 19.91
+
+All cases  -  steps: 5.70  lengths: 11.51  nav_error: 5.75  oracle_error: 3.94  sr: 30.00  oracle_sr: 40.00  spl: 27.14
+
+All cases  -  steps: 6.20  lengths: 13.56  nav_error: 5.79  oracle_error: 4.01  sr: 30.00  oracle_sr: 40.00  spl: 27.38
+
+All cases  -  steps: 9.30  lengths: 19.99  nav_error: 5.91  oracle_error: 4.51  sr: 30.00  oracle_sr: 40.00  spl: 28.57
+
+All cases  -  steps: 9.22  lengths: 19.79  nav_error: 6.51  oracle_error: 4.41  sr: 22.22  oracle_sr: 33.33  spl: 7.48
+
+All cases  -  steps: 4.00  lengths: 9.38  nav_error: 3.73  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 46.37
+
+All cases  -  steps: 8.70  lengths: 15.41  nav_error: 4.89  oracle_error: 3.95  sr: 40.00  oracle_sr: 40.00  spl: 33.14
+
+All cases  -  steps: 10.25  lengths: 21.82  nav_error: 4.92  oracle_error: 3.05  sr: 37.50  oracle_sr: 62.50  spl: 21.94
+
+All cases  -  steps: 5.50  lengths: 11.71  nav_error: 4.36  oracle_error: 2.96  sr: 50.00  oracle_sr: 62.50  spl: 40.03
+
+All cases  -  steps: 3.88  lengths: 7.88  nav_error: 6.48  oracle_error: 5.25  sr: 25.00  oracle_sr: 25.00  spl: 25.00
+
+All cases  -  steps: 4.75  lengths: 9.52  nav_error: 5.69  oracle_error: 4.34  sr: 37.50  oracle_sr: 37.50  spl: 26.18
+
+All cases  -  steps: 5.00  lengths: 10.42  nav_error: 5.14  oracle_error: 4.10  sr: 25.00  oracle_sr: 37.50  spl: 18.48
+
+All cases  -  steps: 5.62  lengths: 11.91  nav_error: 3.88  oracle_error: 3.00  sr: 37.50  oracle_sr: 50.00  spl: 32.34
+
+All cases  -  steps: 7.13  lengths: 11.93  nav_error: 5.83  oracle_error: 4.49  sr: 36.67  oracle_sr: 43.33  spl: 25.32
+
+All cases  -  steps: 7.10  lengths: 16.46  nav_error: 5.22  oracle_error: 4.01  sr: 40.00  oracle_sr: 40.00  spl: 22.23
+
+All cases  -  steps: 6.70  lengths: 14.96  nav_error: 7.03  oracle_error: 4.12  sr: 30.00  oracle_sr: 50.00  spl: 25.90
+
+All cases  -  steps: 7.38  lengths: 14.01  nav_error: 6.14  oracle_error: 4.11  sr: 34.72  oracle_sr: 48.61  spl: 27.20
+
+All cases  -  steps: 4.00  lengths: 8.92  nav_error: 3.73  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 3.00  lengths: 6.08  nav_error: 7.45  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 9.38  nav_error: 3.73  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 46.37
+
+All cases  -  steps: 4.00  lengths: 9.38  nav_error: 3.73  oracle_error: 3.08  sr: 50.00  oracle_sr: 50.00  spl: 46.37
+
+All cases  -  steps: 3.00  lengths: 6.08  nav_error: 7.45  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.08  nav_error: 7.45  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.08  nav_error: 7.45  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 9.00  lengths: 22.59  nav_error: 10.03  oracle_error: 7.45  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 18.00  lengths: 34.74  nav_error: 0.91  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 26.98
+
+All cases  -  steps: 5.00  lengths: 12.49  nav_error: 0.00  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 75.03
+
+All cases  -  steps: 10.00  lengths: 25.18  nav_error: 10.03  oracle_error: 6.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 12.73  nav_error: 10.03  oracle_error: 7.45  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.00  lengths: 17.71  nav_error: 5.01  oracle_error: 3.73  sr: 50.00  oracle_sr: 50.00  spl: 46.37
+
+All cases  -  steps: 23.00  lengths: 42.17  nav_error: 0.91  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 22.23
+
+All cases  -  steps: 10.00  lengths: 19.57  nav_error: 0.91  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 47.89
+
+All cases  -  steps: 6.00  lengths: 12.73  nav_error: 0.96  oracle_error: 0.96  sr: 100.00  oracle_sr: 100.00  spl: 71.42
+
+All cases  -  steps: 6.57  lengths: 15.71  nav_error: 4.23  oracle_error: 2.62  sr: 57.14  oracle_sr: 57.14  spl: 47.79
+
+All cases  -  steps: 10.67  lengths: 21.40  nav_error: 3.03  oracle_error: 1.90  sr: 50.00  oracle_sr: 83.33  spl: 28.57
+
+All cases  -  steps: 11.00  lengths: 21.80  nav_error: 4.62  oracle_error: 2.89  sr: 60.00  oracle_sr: 70.00  spl: 38.05
+
+All cases  -  steps: 9.50  lengths: 18.51  nav_error: 4.30  oracle_error: 2.45  sr: 60.00  oracle_sr: 60.00  spl: 38.30
+
+All cases  -  steps: 9.15  lengths: 17.91  nav_error: 6.29  oracle_error: 3.62  sr: 38.89  oracle_sr: 54.17  spl: 27.10
+
+All cases  -  steps: 9.30  lengths: 19.38  nav_error: 4.50  oracle_error: 2.42  sr: 20.00  oracle_sr: 60.00  spl: 19.30
+
+All cases  -  steps: 6.60  lengths: 14.42  nav_error: 5.00  oracle_error: 3.65  sr: 60.00  oracle_sr: 60.00  spl: 56.73
+
+All cases  -  steps: 6.00  lengths: 11.87  nav_error: 0.91  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 78.96
+
+All cases  -  steps: 9.00  lengths: 14.81  nav_error: 12.26  oracle_error: 4.54  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 9.37  nav_error: 1.59  oracle_error: 1.59  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 4.00  lengths: 10.03  nav_error: 1.59  oracle_error: 1.59  sr: 100.00  oracle_sr: 100.00  spl: 93.46
+
+All cases  -  steps: 6.86  lengths: 15.74  nav_error: 4.35  oracle_error: 2.90  sr: 42.86  oracle_sr: 57.14  spl: 30.47
+
+All cases  -  steps: 5.50  lengths: 11.35  nav_error: 3.84  oracle_error: 2.83  sr: 60.00  oracle_sr: 70.00  spl: 49.04
+
+All cases  -  steps: 7.60  lengths: 17.70  nav_error: 4.99  oracle_error: 4.26  sr: 40.00  oracle_sr: 40.00  spl: 23.41
+
+All cases  -  steps: 8.90  lengths: 18.42  nav_error: 2.18  oracle_error: 0.88  sr: 60.00  oracle_sr: 80.00  spl: 43.33
+
+All cases  -  steps: 10.06  lengths: 20.79  nav_error: 6.40  oracle_error: 3.28  sr: 36.11  oracle_sr: 56.94  spl: 24.86
+
+All cases  -  steps: 10.50  lengths: 19.95  nav_error: 15.50  oracle_error: 11.79  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 7.91  nav_error: 12.35  oracle_error: 11.61  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.50  lengths: 6.28  nav_error: 11.37  oracle_error: 10.74  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 7.88  nav_error: 3.31  oracle_error: 3.31  sr: 50.00  oracle_sr: 50.00  spl: 29.27
+
+All cases  -  steps: 9.00  lengths: 16.62  nav_error: 10.66  oracle_error: 3.57  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 8.98  nav_error: 0.76  oracle_error: 0.76  sr: 100.00  oracle_sr: 100.00  spl: 97.78
+
+All cases  -  steps: 5.00  lengths: 8.55  nav_error: 5.77  oracle_error: 4.31  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.00  lengths: 17.48  nav_error: 2.14  oracle_error: 1.59  sr: 100.00  oracle_sr: 100.00  spl: 53.62
+
+All cases  -  steps: 7.50  lengths: 10.66  nav_error: 7.44  oracle_error: 5.37  sr: 50.00  oracle_sr: 50.00  spl: 50.00
+
+All cases  -  steps: 6.18  lengths: 11.24  nav_error: 6.12  oracle_error: 4.53  sr: 18.18  oracle_sr: 27.27  spl: 15.94
+
+All cases  -  steps: 5.00  lengths: 4.49  nav_error: 3.21  oracle_error: 3.21  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 2.14  nav_error: 3.21  oracle_error: 3.21  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 7.02  nav_error: 5.37  oracle_error: 4.71  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 6.00  lengths: 6.97  nav_error: 2.39  oracle_error: 2.39  sr: 100.00  oracle_sr: 100.00  spl: 74.19
+
+All cases  -  steps: 4.00  lengths: 4.97  nav_error: 7.13  oracle_error: 4.71  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 2.95  nav_error: 2.39  oracle_error: 2.39  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 3.00  lengths: 2.14  nav_error: 3.21  oracle_error: 3.21  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 9.13  nav_error: 10.60  oracle_error: 6.79  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.25  nav_error: 5.85  oracle_error: 5.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 9.13  nav_error: 10.60  oracle_error: 6.79  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.25  nav_error: 5.85  oracle_error: 5.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.25  nav_error: 5.85  oracle_error: 5.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.25  nav_error: 5.85  oracle_error: 5.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 5.00  lengths: 12.43  nav_error: 7.48  oracle_error: 5.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 9.26  nav_error: 2.40  oracle_error: 2.40  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 8.30  lengths: 17.77  nav_error: 5.54  oracle_error: 1.48  sr: 20.00  oracle_sr: 60.00  spl: 15.92
+
+All cases  -  steps: 7.00  lengths: 14.50  nav_error: 9.37  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 9.50  lengths: 19.28  nav_error: 12.22  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 7.50  lengths: 15.00  nav_error: 9.37  oracle_error: 3.85  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 3.00  lengths: 6.64  nav_error: 5.77  oracle_error: 4.54  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.50  lengths: 10.13  nav_error: 0.76  oracle_error: 0.76  sr: 100.00  oracle_sr: 100.00  spl: 96.71
+
+All cases  -  steps: 7.57  lengths: 15.48  nav_error: 4.89  oracle_error: 2.48  sr: 28.57  oracle_sr: 57.14  spl: 27.76
+
+All cases  -  steps: 9.10  lengths: 19.25  nav_error: 5.84  oracle_error: 1.91  sr: 40.00  oracle_sr: 70.00  spl: 33.68
+
+All cases  -  steps: 6.90  lengths: 14.64  nav_error: 3.44  oracle_error: 1.72  sr: 40.00  oracle_sr: 60.00  spl: 26.15
+
+All cases  -  steps: 12.00  lengths: 25.80  nav_error: 4.36  oracle_error: 0.57  sr: 50.00  oracle_sr: 90.00  spl: 29.02
+
+All cases  -  steps: 9.50  lengths: 24.51  nav_error: 2.92  oracle_error: 0.76  sr: 50.00  oracle_sr: 100.00  spl: 50.00
+
+All cases  -  steps: 10.50  lengths: 22.48  nav_error: 4.44  oracle_error: 1.31  sr: 60.00  oracle_sr: 80.00  spl: 37.86
+
+All cases  -  steps: 8.60  lengths: 18.86  nav_error: 6.61  oracle_error: 4.10  sr: 20.00  oracle_sr: 30.00  spl: 14.60
+
+All cases  -  steps: 9.00  lengths: 19.97  nav_error: 4.27  oracle_error: 1.58  sr: 40.00  oracle_sr: 70.00  spl: 23.70
+
+All cases  -  steps: 7.60  lengths: 16.54  nav_error: 3.06  oracle_error: 1.15  sr: 60.00  oracle_sr: 80.00  spl: 44.66
+
+All cases  -  steps: 11.10  lengths: 23.67  nav_error: 6.61  oracle_error: 2.52  sr: 38.89  oracle_sr: 70.83  spl: 22.76
+
+All cases  -  steps: 9.90  lengths: 20.61  nav_error: 3.39  oracle_error: 0.82  sr: 60.00  oracle_sr: 90.00  spl: 38.95
+
+All cases  -  steps: 8.20  lengths: 19.11  nav_error: 4.32  oracle_error: 1.02  sr: 40.00  oracle_sr: 90.00  spl: 27.72
+
+All cases  -  steps: 9.80  lengths: 20.82  nav_error: 3.63  oracle_error: 1.96  sr: 50.00  oracle_sr: 70.00  spl: 37.32
+
+All cases  -  steps: 8.00  lengths: 18.72  nav_error: 5.02  oracle_error: 1.55  sr: 50.00  oracle_sr: 70.00  spl: 34.92
+
+All cases  -  steps: 8.40  lengths: 17.43  nav_error: 4.69  oracle_error: 1.09  sr: 40.00  oracle_sr: 80.00  spl: 33.64
+
+All cases  -  steps: 10.80  lengths: 24.38  nav_error: 4.47  oracle_error: 1.84  sr: 50.00  oracle_sr: 70.00  spl: 39.32
+
+All cases  -  steps: 9.80  lengths: 21.03  nav_error: 3.92  oracle_error: 1.23  sr: 50.00  oracle_sr: 70.00  spl: 34.01
+
+All cases  -  steps: 7.35  lengths: 15.43  nav_error: 6.25  oracle_error: 3.56  sr: 40.28  oracle_sr: 55.56  spl: 30.57
+
+All cases  -  steps: 6.93  lengths: 14.79  nav_error: 5.58  oracle_error: 3.35  sr: 43.06  oracle_sr: 56.94  spl: 35.75
+
+All cases  -  steps: 11.53  lengths: 24.38  nav_error: 7.31  oracle_error: 2.43  sr: 36.11  oracle_sr: 66.67  spl: 19.44
+
+All cases  -  steps: 7.12  lengths: 15.45  nav_error: 5.03  oracle_error: 3.02  sr: 53.73  oracle_sr: 62.69  spl: 41.65
+
+All cases  -  steps: 6.78  lengths: 14.28  nav_error: 6.09  oracle_error: 3.57  sr: 40.28  oracle_sr: 51.39  spl: 31.67
+
+All cases  -  steps: 8.47  lengths: 17.64  nav_error: 7.26  oracle_error: 3.41  sr: 38.89  oracle_sr: 61.11  spl: 28.13
+
+All cases  -  steps: 9.50  lengths: 19.09  nav_error: 5.71  oracle_error: 1.96  sr: 40.00  oracle_sr: 80.00  spl: 32.58
+
+All cases  -  steps: 7.50  lengths: 16.40  nav_error: 5.19  oracle_error: 1.87  sr: 25.00  oracle_sr: 75.00  spl: 21.51
+
+All cases  -  steps: 8.57  lengths: 16.65  nav_error: 4.10  oracle_error: 1.46  sr: 28.57  oracle_sr: 85.71  spl: 27.27
+
+All cases  -  steps: 6.29  lengths: 11.28  nav_error: 2.81  oracle_error: 1.12  sr: 57.14  oracle_sr: 85.71  spl: 48.41
+
+All cases  -  steps: 6.57  lengths: 12.25  nav_error: 3.77  oracle_error: 1.74  sr: 28.57  oracle_sr: 71.43  spl: 27.27
+
+All cases  -  steps: 5.86  lengths: 10.67  nav_error: 1.57  oracle_error: 1.40  sr: 71.43  oracle_sr: 71.43  spl: 61.24
+
+All cases  -  steps: 7.14  lengths: 12.99  nav_error: 4.68  oracle_error: 2.08  sr: 28.57  oracle_sr: 71.43  spl: 27.27
+
+All cases  -  steps: 9.71  lengths: 20.11  nav_error: 5.95  oracle_error: 1.74  sr: 42.86  oracle_sr: 85.71  spl: 32.67
+
+All cases  -  steps: 7.80  lengths: 17.62  nav_error: 5.02  oracle_error: 2.48  sr: 40.00  oracle_sr: 60.00  spl: 34.29
+
+All cases  -  steps: 10.58  lengths: 22.72  nav_error: 6.84  oracle_error: 2.62  sr: 36.11  oracle_sr: 66.67  spl: 23.08
+
+All cases  -  steps: 9.04  lengths: 18.53  nav_error: 6.88  oracle_error: 3.33  sr: 38.89  oracle_sr: 62.50  spl: 28.00
+
+All cases  -  steps: 7.35  lengths: 15.44  nav_error: 6.21  oracle_error: 3.42  sr: 47.22  oracle_sr: 59.72  spl: 37.69
+
+All cases  -  steps: 8.10  lengths: 18.43  nav_error: 4.79  oracle_error: 2.26  sr: 50.00  oracle_sr: 60.00  spl: 41.93
+
+All cases  -  steps: 6.30  lengths: 11.84  nav_error: 2.66  oracle_error: 2.23  sr: 70.00  oracle_sr: 70.00  spl: 63.71
+
+All cases  -  steps: 7.35  lengths: 15.19  nav_error: 3.96  oracle_error: 2.34  sr: 60.00  oracle_sr: 70.00  spl: 46.24
+
+All cases  -  steps: 6.10  lengths: 12.72  nav_error: 4.48  oracle_error: 2.50  sr: 50.00  oracle_sr: 60.00  spl: 45.87
+
+All cases  -  steps: 6.50  lengths: 14.08  nav_error: 2.97  oracle_error: 1.68  sr: 70.00  oracle_sr: 80.00  spl: 59.89
+
+All cases  -  steps: 7.28  lengths: 15.36  nav_error: 6.86  oracle_error: 3.72  sr: 37.96  oracle_sr: 51.39  spl: 30.33
+
+All cases  -  steps: 6.70  lengths: 12.20  nav_error: 2.56  oracle_error: 1.20  sr: 70.00  oracle_sr: 80.00  spl: 62.63
+
+All cases  -  steps: 5.90  lengths: 12.07  nav_error: 3.03  oracle_error: 2.04  sr: 70.00  oracle_sr: 75.00  spl: 56.88
+
+All cases  -  steps: 8.50  lengths: 17.57  nav_error: 9.05  oracle_error: 5.04  sr: 25.00  oracle_sr: 35.00  spl: 19.37
+
+All cases  -  steps: 7.00  lengths: 15.13  nav_error: 8.29  oracle_error: 4.01  sr: 37.50  oracle_sr: 56.25  spl: 32.14
+
+All cases  -  steps: 7.72  lengths: 16.31  nav_error: 7.22  oracle_error: 3.37  sr: 43.75  oracle_sr: 62.50  spl: 29.27
+
+All cases  -  steps: 7.15  lengths: 15.18  nav_error: 6.77  oracle_error: 4.03  sr: 40.00  oracle_sr: 50.00  spl: 28.07
+
+All cases  -  steps: 6.55  lengths: 13.96  nav_error: 5.77  oracle_error: 3.73  sr: 43.98  oracle_sr: 49.54  spl: 37.35
+
+All cases  -  steps: 8.35  lengths: 17.82  nav_error: 5.14  oracle_error: 2.64  sr: 56.94  oracle_sr: 66.20  spl: 44.14
+
+All cases  -  steps: 7.00  lengths: 13.81  nav_error: 1.81  oracle_error: 1.21  sr: 90.00  oracle_sr: 90.00  spl: 71.88
+
+All cases  -  steps: 6.90  lengths: 13.87  nav_error: 3.52  oracle_error: 1.84  sr: 70.00  oracle_sr: 80.00  spl: 60.24
+
+All cases  -  steps: 8.10  lengths: 16.18  nav_error: 3.79  oracle_error: 2.62  sr: 60.00  oracle_sr: 70.00  spl: 47.85
+
+All cases  -  steps: 7.50  lengths: 15.50  nav_error: 3.44  oracle_error: 1.89  sr: 50.00  oracle_sr: 80.00  spl: 42.26
+
+All cases  -  steps: 9.50  lengths: 20.85  nav_error: 4.76  oracle_error: 1.47  sr: 60.00  oracle_sr: 80.00  spl: 46.49
+
+All cases  -  steps: 10.39  lengths: 22.16  nav_error: 7.12  oracle_error: 2.63  sr: 37.50  oracle_sr: 68.06  spl: 22.65
+
+All cases  -  steps: 10.47  lengths: 21.83  nav_error: 7.32  oracle_error: 2.81  sr: 31.94  oracle_sr: 65.28  spl: 19.78
+
+All cases  -  steps: 11.25  lengths: 23.11  nav_error: 7.23  oracle_error: 2.86  sr: 38.89  oracle_sr: 65.28  spl: 22.59
+
+All cases  -  steps: 15.00  lengths: 35.39  nav_error: 18.58  oracle_error: 3.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 8.00  lengths: 18.44  nav_error: 3.52  oracle_error: 0.00  sr: 0.00  oracle_sr: 100.00  spl: 0.00
+
+All cases  -  steps: 10.00  lengths: 26.40  nav_error: 2.14  oracle_error: 0.00  sr: 100.00  oracle_sr: 100.00  spl: 35.50
+
+All cases  -  steps: 7.75  lengths: 15.90  nav_error: 3.53  oracle_error: 2.25  sr: 50.00  oracle_sr: 62.50  spl: 36.09
+
+All cases  -  steps: 5.12  lengths: 11.28  nav_error: 5.94  oracle_error: 3.84  sr: 25.00  oracle_sr: 37.50  spl: 25.00
+
+All cases  -  steps: 9.50  lengths: 20.40  nav_error: 3.81  oracle_error: 1.34  sr: 70.00  oracle_sr: 80.00  spl: 47.82
+
+All cases  -  steps: 10.44  lengths: 22.18  nav_error: 6.53  oracle_error: 2.80  sr: 38.71  oracle_sr: 66.13  spl: 22.71
+
+All cases  -  steps: 5.00  lengths: 9.43  nav_error: 1.90  oracle_error: 1.90  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
+All cases  -  steps: 9.24  lengths: 19.23  nav_error: 6.34  oracle_error: 2.80  sr: 45.83  oracle_sr: 65.28  spl: 29.19
+
+All cases  -  steps: 8.68  lengths: 18.41  nav_error: 5.51  oracle_error: 2.55  sr: 51.39  oracle_sr: 69.44  spl: 34.85
+
+All cases  -  steps: 8.35  lengths: 17.78  nav_error: 7.18  oracle_error: 3.48  sr: 31.25  oracle_sr: 51.39  spl: 23.96
+
+All cases  -  steps: 8.29  lengths: 18.08  nav_error: 6.89  oracle_error: 3.48  sr: 40.28  oracle_sr: 52.78  spl: 28.27
+
+All cases  -  steps: 8.24  lengths: 17.63  nav_error: 6.49  oracle_error: 3.37  sr: 40.28  oracle_sr: 59.72  spl: 29.06
+
+All cases  -  steps: 8.21  lengths: 17.37  nav_error: 6.11  oracle_error: 3.30  sr: 41.67  oracle_sr: 61.11  spl: 30.95
+
+All cases  -  steps: 9.29  lengths: 19.76  nav_error: 6.50  oracle_error: 3.15  sr: 41.67  oracle_sr: 66.67  spl: 27.66
+
+All cases  -  steps: 8.45  lengths: 17.01  nav_error: 4.12  oracle_error: 2.21  sr: 50.00  oracle_sr: 60.00  spl: 31.65
+
+All cases  -  steps: 5.00  lengths: 12.84  nav_error: 3.17  oracle_error: 3.17  sr: 0.00  oracle_sr: 0.00  spl: 0.00
+
+All cases  -  steps: 4.00  lengths: 10.23  nav_error: 1.53  oracle_error: 1.53  sr: 100.00  oracle_sr: 100.00  spl: 100.00
+
