@@ -14,9 +14,6 @@ conda activate SpatialGPT
 pip install -r requirements.txt
 ```
 
-## Data Preparation
-2. For the demonstration scan, once the above datasets setting is complete, move the file TourPilot_scene_processed.json from current directory to the new built 'datasets/R2R/annotations/' directory.
-
 ## OpenAI API key
 Fill in your API key at Line 12 of the file: GPT/api.py.
 
@@ -28,19 +25,4 @@ Then run:
 bash scripts/gpt4o.sh
 ```
 
-Note that you should modify the following part in gpt4o.sh to set the path to your observation images, the split you want to test, etc.
-
-```bash
---root_dir ${DATA_ROOT}
---img_root /path/to/images
---split TourPilot_scene_processed
---end 1  # the number of cases to be tested
---output_dir ${outdir}
---max_action_len 15
---save_pred
---stop_after 3
---llm gpt-4o
---response_format json
---max_tokens 4096
-```
 
