@@ -15,8 +15,6 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
-1. To accelerate simulation, observation images should be pre-collected from the simulator. You can use your own saved images or use the [RGB_Observations.zip](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/jadge_connect_hku_hk/Eq00RV04jXpNkwqowKh5mYABBTqBG1U2RXgQ7FvaGweJOQ?e=rL1d6p)  pre-collected in prior research work.
-
 2. For the demonstration scan, once the above datasets setting is complete, move the file TourPilot_scene_processed.json from current directory to the new built 'datasets/R2R/annotations/' directory.
 
 ## OpenAI API key
