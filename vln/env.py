@@ -32,7 +32,7 @@ class EnvBatch(object):
         self.image_w = 640
         self.image_h = 480
         self.vfov = 60
-        
+        print(connectivity_dir,scan_data_dir,feat_db)
         self.sims = []
         for i in range(batch_size):
             sim = MatterSim.Simulator()
@@ -40,8 +40,8 @@ class EnvBatch(object):
                 sim.setDatasetPath(scan_data_dir)
             sim.setDatasetPath('../data/v1/scans')
             sim.setNavGraphPath(connectivity_dir)
-            sim.setRenderingEnabled(True)  # Enable rendering for depth image
-            sim.setDepthEnabled(True)
+            sim.setRenderingEnabled(False)  # Enable rendering for depth image
+            sim.setDepthEnabled(False)
             sim.setDiscretizedViewingAngles(True)   # Set increment/decrement to 30 degree. (otherwise by radians)
             sim.setCameraResolution(self.image_w, self.image_h)
             sim.setCameraVFOV(math.radians(self.vfov))
