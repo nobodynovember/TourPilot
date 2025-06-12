@@ -16,10 +16,9 @@
 - **Validated in Real-World Scenarios**  
   Demonstrated in CF Market Mall, Studio Bell Museum, and an art studio, showing comparable performance to human tour guides.
 
-This repository provides the indoor navigation case in an art studio, serving as a demonstration of our navigation method.
-
  ![TourPilot](framework.png).
 
+This repository provides the indoor navigation case in an art studio, serving as a demonstration of our navigation method.
 ## Installation
 1. Matterport3D installation instruction: [here](https://github.com/peteanderson80/Matterport3DSimulator). 
 2. Install requirements:
@@ -41,5 +40,5 @@ export PYTHONPATH=$PYTHONPATH:/path/to/your/TourPilot
 ```bash
 bash scripts/gpt4o.sh
 ```
-
+If you have any questions, please contact me by email: zhiqiang.jiang@ucalgary.ca
 
