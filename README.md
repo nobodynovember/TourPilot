@@ -11,7 +11,7 @@
   Models each point of interest (POI) as a state and dynamically adapts the tour plan based on real-time visitor preferences and inputs.
 
 - **Narrated Tour VLN for Navigation**  
-  Interprets natural language instructions and panoramic visual input to perform navigation and deliver contextual commentary,without needing prior mapping or sensors.
+  Interprets natural language instructions and panoramic visual input to perform navigation and deliver contextual tour commentary,without task-specific training or prior exploration.
 
  ![TourPilot](framework.png).
 
