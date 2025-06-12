@@ -13,9 +13,6 @@
 - **Narrated Tour VLN for Navigation**  
   Interprets natural language instructions and panoramic visual input to perform navigation and deliver contextual commentary,without needing prior mapping or sensors.
 
-- **Validated in Real-World Scenarios**  
-  Demonstrated in CF Market Mall, Studio Bell Museum, and an art studio, showing comparable performance to human tour guides.
-
  ![TourPilot](framework.png).
 
 This repository provides the indoor navigation case in an art studio, serving as a demonstration of our navigation method.
