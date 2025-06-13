@@ -259,12 +259,31 @@ class SpatialExpert:
         self.Trajectory.append(self.current_node)
         return 1 
   
+
+  
     #     return matched_nodelist
     def GPT_front_landmark_aligned(self, instru_step, ob,t): 
         def sort_candidates_elevation(candidate_list):
             sorted_list = sorted(candidate_list, key=lambda x: x['elevation'])
             return sorted_list
-        import ast
+        
+
+        def handle_pause_action(action_name: str, poi_name: str, poi_file_path: str = "POIs.json"):
+            if "pause" in action_name.lower():
+                try:
+                    with open(poi_file_path, 'r', encoding='utf-8') as f:
+                        poi_data = json.load(f)
+                except FileNotFoundError:
+                    print("POI file not found.")
+                    return
+                except json.JSONDecodeError:
+                    print("POI file format error.")
+                    return
+
+                commentary = poi_data.get(poi_name, "No commentary available for this POI.")
+                print("\n--- PAUSED AT POI for Commentary Communication ---")
+                print(f"[{poi_name}]\n{commentary}")
+                input("\nPress Enter to continue navigation...")
 
         import ast
 
@@ -297,7 +316,7 @@ class SpatialExpert:
         matched_nodelist=[]
         current_action_name=self.actionlist[instru_step]['action_name']
 
-       
+              
         self.extracted_instruction=ob['instruction']
     #  parse the instruction into a sequence of actions and landmarks with spatial area
         orientation=self.current_viewIndex
@@ -312,7 +331,14 @@ class SpatialExpert:
             navigable_candidates.append(candidate)
         navigable_images = list(dict.fromkeys(navigable_images_origin)) # remove duplicates
         # print('navigable_images:', navigable_images)
-
+#tourpilot add pause action
+        if instru_step>0:
+            landmarks_poi=self.actionlist[instru_step-1]['landmarks']
+            if len(landmarks_poi)>0:
+                poi_name = landmarks_poi[0]['landmark_name']
+                # print(poi_name)
+                handle_pause_action(current_action_name, poi_name)
+#end
         if instru_step==len(self.actionlist)-1: # last action
             current_action_name = current_action_name.replace("up the stairs", "up the stairs and stop at the top")
             current_action_name = current_action_name.replace("down the stairs", "down the stairs and stop at the bottom")

@@ -1,0 +1,74 @@
+{
+    "a_t": {},
+    "evaluation": {
+        "CLS": [
+            0.9116005912097526
+        ],
+        "DTW": [
+            2.929410404024971
+        ],
+        "SDTW": [
+            0.8498078427176735
+        ],
+        "action_steps": [
+            5
+        ],
+        "instr_id": [
+            "6526_0"
+        ],
+        "nDTW": [
+            0.8498078427176735
+        ],
+        "nav_error": [
+            1.5289614154713
+        ],
+        "oracle_error": [
+            1.5289614154713
+        ],
+        "oracle_success": [
+            1.0
+        ],
+        "spl": [
+            1.0
+        ],
+        "success": [
+            1.0
+        ],
+        "trajectory_lengths": [
+            11.239431581899062
+        ],
+        "trajectory_steps": [
+            5
+        ]
+    },
+    "gt_traj": [
+        "e5d22d5625714f54add784abac16c69f",
+        "13c191f506114c73b70830b89e195aa6",
+        "d52aaea9fc6e4d5fbecd0220eb9da436",
+        "4890b24fbb59414892ca854895896126",
+        "37cb64e0cddc4f20b309abc4ff5344c2",
+        "3ba76deab6be444c8b21652763d82795"
+    ],
+    "instr_id": "6526_0",
+    "scan": "Uxmj2M2itWa",
+    "trajectory": [
+        [
+            "e5d22d5625714f54add784abac16c69f"
+        ],
+        [
+            "13c191f506114c73b70830b89e195aa6"
+        ],
+        [
+            "d52aaea9fc6e4d5fbecd0220eb9da436"
+        ],
+        [
+            "d573afade1c74167ac0d0b1a2e37ddc4"
+        ],
+        [
+            "4890b24fbb59414892ca854895896126"
+        ],
+        [
+            "37cb64e0cddc4f20b309abc4ff5344c2"
+        ]
+    ]
+}
